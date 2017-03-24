@@ -1,0 +1,83 @@
+{
+    "data": {
+        "sa": {
+            "goodServicePercent": 95,
+            "imgPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330107163&di=244b6ec9af419ee5a03886e708b034f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20120523%2Fshangwunanshitouxiangzhaopian_1040409_small.jpg",
+            "level": "0",
+            "levelText": "高级车管家",
+            "saId": 13,
+            "saName": "美人豹SA测试账户",
+            "saPhone": "13700000000"
+        },
+        "service": [
+            {
+                "isAgencyService": true,
+                "isToStoreService": false,
+                "serviceId": "6",
+                "serviceType": 3,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "美容养车服务",
+                "lighten": false,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "嘉实多磁护小保养"
+            },
+            {
+                "isAgencyService": false,
+                "isToStoreService": true,
+                "serviceId": "5",
+                "serviceType": 3,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "保养您的爱车",
+                "lighten": false,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "道路救援"
+            },
+            {
+                "isAgencyService": true,
+                "isToStoreService": true,
+                "serviceId": "4",
+                "serviceType": 2,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "快速应急救援",
+                "lighten": true,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "普通洗车"
+            },
+            {
+                "isAgencyService": false,
+                "isToStoreService": false,
+                "serviceId": "3",
+                "serviceType": 3,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "理赔一键处理",
+                "lighten": false,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "更换发动机正时"
+            },
+            {
+                "isAgencyService": true,
+                "isToStoreService": false,
+                "serviceId": "2",
+                "serviceType": 1,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "快速一键代办",
+                "lighten": true,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "空调清洗"
+            },
+            {
+                "isAgencyService": false,
+                "isToStoreService": false,
+                "serviceId": "1",
+                "serviceType": 3,
+                "url": "http://testwap.chemayi.com/service",
+                "desc": "免费全车体检",
+                "lighten": true,
+                "serviceIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490330920013&di=1487eeef96cd0bed21a5a953f4a2dbd9&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F15%2F03%2F69%2F25a58PICD5Y_1024.jpg",
+                "serviceName": "全部"
+            }
+        ]
+    },
+    "flag": 1,
+    "msg": "成功"
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "items": [
+                {
+                    "IsAgencyService": true,
+                    "IsDanger": "测试内容8ryw",
+                    "IsToStoreService": false,
+                    "ServiceCategoryName": "美容",
+                    "ServiceID": "1",
+                    "ServiceName": "打蜡"
+                },
+                {
+                    "IsAgencyService": true,
+                    "IsDanger": "测试内容8ryw",
+                    "IsToStoreService": false,
+                    "ServiceCategoryName": "美容",
+                    "ServiceID": "2",
+                    "ServiceName": "洗车"
+                }
+            ],
+            "ServiceCategoryName": "美容"
+        },
+        {
+            "items": [
+                {
+                    "IsAgencyService": true,
+                    "IsDanger": "测试内容8ryw",
+                    "IsToStoreService": true,
+                    "ServiceCategoryName": "美容",
+                    "ServiceID": "3",
+                    "ServiceName": "发动机检查"
+                },
+                {
+                    "IsAgencyService": true,
+                    "IsDanger": "测试内容8ryw",
+                    "IsToStoreService": true,
+                    "ServiceCategoryName": "美容",
+                    "ServiceID": "4",
+                    "ServiceName": "空调清洗"
+                }
+            ],
+            "ServiceCategoryName": "保养"
+        }
+    ],
+    "flag": 1,
+    "msg": "成功"
+}
