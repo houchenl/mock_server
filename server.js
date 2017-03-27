@@ -34,10 +34,12 @@ function mock(param, res, postData) {
     console.log(`about to read file ${filePath}`);
     fs.readFile(filePath, (err, data) => {
         if (err) {
+            console.log(`fail to read from ${filePath}.`);
             res.writeHead(404, {"Content-Type": "text/plain"});
             res.write("404 Not found");
             res.end();
         } else {
+            console.log(`success to read from ${filePath}.`);
             res.writeHead(200, {"Content-Type": "application/json"});
             res.write(data);
             res.end();
@@ -50,5 +52,6 @@ function paramToFileName(param) {
     param = param.replace(/\//g, '_');
 
     var pre = './files/';
-    return pre + param;
+    var suf = '.json';
+    return pre + param + suf;
 }
