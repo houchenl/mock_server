@@ -27,13 +27,12 @@ server.listen(port, host, () => {
 	console.log(`server running at ${host}:${port}.`);
 });
 
-// res read data
+// response read data
 function mock(param, res, postData) {
-	param = paramToFileName(param);
-	// res.end(`param ` + param);
+	var filePath = paramToFileName(param);
 
-	console.log(`about to read file ${param}`);
-	fs.readFile(param, (err, data) => {
+	console.log(`about to read file ${filePath}`);
+	fs.readFile(filePath, (err, data) => {
 	  if (err) {
 		res.writeHead(404, {"Content-Type": "text/plain"});
 	    res.write("404 Not found");
@@ -46,12 +45,11 @@ function mock(param, res, postData) {
 	});
 }
 
+// get file name according to url's param.
 function paramToFileName(param) {
 	param = param.replace(/\//g, '_');
 
 	var pre = './files/';
 	var suf = '.json';
 	return pre + param + suf;
-	// return '/Users/liulei/workspace/nodejs/my_mock/files/_a_b.json';
-	// return './files/_a_b.json';
 }
