@@ -50,6 +50,5 @@ function paramToFileName(param) {
     param = param.replace(/\//g, '_');
 
     var pre = './files/';
-    var suf = '.json';
-    return pre + param + suf;
+    return pre + param;
 }

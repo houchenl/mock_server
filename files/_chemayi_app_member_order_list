@@ -1,0 +1,22 @@
+{
+    "data": {
+        "ordersCount": 100,
+        "resultList": [
+            {
+                "UnitePayID": "123123123123123123",
+                "generateType": 13723,
+                "orderCode": "123123123123123123",
+                "orderDateTime": "2016-10-20 13:24:24",
+                "orderDesc": "保养+美容+喷漆",
+                "orderId": 123456,
+                "orderStatusDesc": "未支付",
+                "orderStatusId": 0,
+                "orderType": "1",
+                "payAmount": 1000,
+                "totalAmount": 1000
+            }
+        ]
+    },
+    "flag": 1,
+    "msg": "成功"
+}

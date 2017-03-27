@@ -1,0 +1,37 @@
+{
+    "data": {
+        "carInfo": {
+            "carLogo": "http://test",
+            "carModel": "丰田牌",
+            "plateNumber": "浙GY3150"
+        },
+        "orderInfo": {
+            "orderHeader": {
+                "UnitePayID": "测试内容10tv",
+                "canUseCbk": true,
+                "cbkBalanceAmount": 12000,
+                "isVip": true,
+                "orderCode": "123456123456",
+                "orderComments": "车漆要涂匀",
+                "orderDesc": "虹口店打车漆",
+                "orderId": 123456,
+                "orderType": "测试内容222w",
+                "storeName": "虹口店",
+                "totalAmount": 2000,
+                "totalVipAmount": 71624
+            },
+            "orderItems": [
+                {
+                    "isVip": true,
+                    "productDesc": "1对1专属敌人车管家",
+                    "productImg": "https://lh3.googleusercontent.com/-rrNg1Av26Ag/AAAAAAAAAAI/AAAAAAAAAAA/AKTaeK-vPqub1Mwn1U4k-DJGtTJ25cEEbg/s64-c-mo/photo.jpg",
+                    "productName": "蚂蚁车管家",
+                    "productPrice": 365,
+                    "productVipPrice": 17373
+                }
+            ]
+        }
+    },
+    "flag": 1,
+    "msg": "成功"
+}
