@@ -1,0 +1,46 @@
+{
+    "retCode": 0,
+    "retMsg": "",
+    "data": {
+        "poem": {
+            "name": "诗词",
+            "poems": [
+                {
+                    "id": 101,
+                    "name": "诗经",
+                    "iconUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673708373&di=f8ea3bb6e3c0a3c448b00fbc05f01633&imgtype=0&src=http%3A%2F%2Ffdfs.xmcdn.com%2Fgroup24%2FM01%2F3B%2F3B%2FwKgJNVgnzHqB1ujjAAYFPB6zNKA873.jpg"
+                },
+                {
+                    "id": 102,
+                    "name": "唐诗三百首",
+                    "iconUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673650942&di=d821976fa962eded7309f9de451a1551&imgtype=0&src=http%3A%2F%2Fimg32.ddimg.cn%2F36%2F29%2F8660952-1_e.jpg"
+                },
+                {
+                    "id": 103,
+                    "name": "宋词三百首",
+                    "iconUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673738030&di=9b261210cc57f8500914fdc76040d23e&imgtype=0&src=http%3A%2F%2Fimg38.ddimg.cn%2F18%2F32%2F20128698-1_o.jpg"
+                },
+                {
+                    "id": 104,
+                    "name": "元曲三百首",
+                    "iconUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2530050971,1274695918&fm=23&gp=0.jpg"
+                }
+            ]   
+        },
+        "motif": {
+            "name": "主题",
+            "motifs": [
+                {
+                    "id": 201,
+                    "name": "豪放派",
+                    "iconUrl": ""
+                },
+                {
+                    "id": 202,
+                    "name": "婉约派",
+                    "iconUrl": ""
+                }
+            ]
+        }
+    }
+}
