@@ -3,7 +3,7 @@ const http = require('http');
 const url = require('url');
 const fs = require('fs');
 
-const host = '13.57.78.175';
+const host = '172.25.6.106';
 const port = 9999;
 
 // create server
