@@ -3,7 +3,7 @@ const http = require('http');
 const url = require('url');
 const fs = require('fs');
 
-const host = '192.168.1.105';
+const host = '13.57.78.175';
 const port = 9999;
 
 // create server
@@ -53,5 +53,8 @@ function paramToFileName(param) {
 
     var pre = './files/';
     var suf = '.json';
+    if (param.startsWith('_')) {
+        param = param.substr(1, param.length - 1);
+    }
     return pre + param + suf;
 }
