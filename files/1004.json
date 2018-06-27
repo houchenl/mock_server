@@ -9,17 +9,17 @@
                     {
                         "id": 101,
                         "name": "诗经",
-                        "cover": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673708373&di=f8ea3bb6e3c0a3c448b00fbc05f01633&imgtype=0&src=http%3A%2F%2Ffdfs.xmcdn.com%2Fgroup24%2FM01%2F3B%2F3B%2FwKgJNVgnzHqB1ujjAAYFPB6zNKA873.jpg"
+                        "cover": "http://obzwut8kj.bkt.clouddn.com/poem/cover/shi_jing.jpg"
                     },
                     {
                         "id": 102,
                         "name": "唐诗三百首",
-                        "cover": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2530050971,1274695918&fm=23&gp=0.jpg"
+                        "cover": "http://obzwut8kj.bkt.clouddn.com/poem/cover/tang_shi_san_bai_shou.jpg"
                     },
                     {
                         "id": 103,
                         "name": "宋词三百首",
-                        "cover": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673738030&di=9b261210cc57f8500914fdc76040d23e&imgtype=0&src=http%3A%2F%2Fimg38.ddimg.cn%2F18%2F32%2F20128698-1_o.jpg"
+                        "cover": "http://obzwut8kj.bkt.clouddn.com/poem/cover/song_ci_san_bai_shou.jpg"
                     },
                     {
                         "id": 104,
@@ -39,7 +39,7 @@
                     {
                         "id": 202,
                         "name": "婉约派",
-                        "cover": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491673708373&di=f8ea3bb6e3c0a3c448b00fbc05f01633&imgtype=0&src=http%3A%2F%2Ffdfs.xmcdn.com%2Fgroup24%2FM01%2F3B%2F3B%2FwKgJNVgnzHqB1ujjAAYFPB6zNKA873.jpg"
+                        "cover": "http://obzwut8kj.bkt.clouddn.com/poem/cover/shi_jing.jpg"
                     }
                 ]
             }
